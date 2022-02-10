@@ -20,5 +20,3 @@ class Arene {
     }
   }
 }
-
-hello
